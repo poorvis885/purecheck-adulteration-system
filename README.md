@@ -10,8 +10,8 @@ A compact IoT-enabled system to detect contaminants in milk using pH, TDS, and t
 **Features:**  
 - Real-time adulteration detection  
 - Compact and portable device  
-- Color-coded result feedback  
-
+- Color-coded result feedback
+  
 **Setup Instructions:**  
 1. Clone this repository: `git clone https://github.com/<your-username>/purecheck-adulteration-system.git`
 2. Connect sensors to Arduino Nano.
