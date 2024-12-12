@@ -20,3 +20,12 @@ A compact IoT-enabled system to detect contaminants in milk using pH, TDS, and t
 
 **Future Scope:**  
 - Extend to detect fruits and vegetable adulteration.
+
+
+
+## License
+
+This project is the intellectual property of **Poorvi Shrivastava**.  
+Please credit the author if you decide to use or modify it. Unauthorized copying or redistribution may be subject to legal action.
+
+Copyright (c) 2024 Poorvi Shrivastava. All rights reserved.
